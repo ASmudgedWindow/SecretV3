@@ -21,8 +21,11 @@ section {
     margin-bottom: 20px;
 }
 
-h1, h2 {
+h2 {
     color: #ff0000;
+}
+.header h1 {
+    color: #ffffff;
 }
 
 footer {
